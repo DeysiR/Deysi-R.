@@ -12,7 +12,11 @@ I decide to take a part-time job so i could have some free time to teach myself 
 
 So i apply for some courses online and also went to a shcool to learn css and html. From that moment i realize that i needed to became a web developer.
 
-Now i'm studyind the founders and coders courses online. Is being a chalenge but also a joy because you can learn so much from them.
+Is being a chalenge but also a joy because im doing what i like. 
+
+I now applied to the founders and coders and firgers cross because this will change my life. 
+
+
 
 to be continued..
 
