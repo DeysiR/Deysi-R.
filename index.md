@@ -1,4 +1,9 @@
-
+<head>
+		<title>Deysi Ramirez</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	
 ## Welcome to my Page
 
 Hi there. 
