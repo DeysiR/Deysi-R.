@@ -1,7 +1,6 @@
 
-        <head>
-	<title>Deysi Ramirez</title>	
-	</head>
+<title>Deysi Ramirez</title>	
+	
 	
 ## Welcome to my Page
 
