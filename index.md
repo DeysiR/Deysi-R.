@@ -1,7 +1,6 @@
-<head>
-		<title>Deysi Ramirez</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
+
+        <head>
+	<title>Deysi Ramirez</title>	
 	</head>
 	
 ## Welcome to my Page
