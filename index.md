@@ -1,6 +1,4 @@
 
-<title>Deysi Ramirez</title>	
-	
 	
 ## Welcome to my Page
 
