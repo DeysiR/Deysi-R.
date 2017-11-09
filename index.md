@@ -1,12 +1,4 @@
-<nav>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
-
+<body>
 ## Welcome to my Page
 
 Hi there. 
@@ -26,8 +18,6 @@ to be continued..
 
 ## Contact Me
 
-	
-		
 		<footer>
     		<ul>
         		<li><a href="http://mailto:deysi-ramirez@hotmail.com">Email</a></li>
@@ -36,6 +26,6 @@ to be continued..
 			<li><a href="https://www.codewars.com/dashboard">CodeWars</a></li>
 			</ul>
 		</footer>
-
+</body>
 
 
