@@ -14,14 +14,15 @@ Now i'm studyind the founders and coders courses online. Is being a chalenge but
 
 to be continued..
 
-<footer>
-    		<ul>
+
+## Contact Me
+
+	<ul>
         		<li><a href="http://mailto:deysi-ramirez@hotmail.com">Email</a></li>
         		<li><a href="https://github.com/DeysiR">GitHub</a></li>
 			<li><a href="https://www.freecodecamp.org/deysir">FreeCodeCamp</a></li>
 			<li><a href="https://www.codewars.com/dashboard">CodeWars</a></li>
 			</ul>
-		</footer>
 
 
 
