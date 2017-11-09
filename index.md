@@ -12,7 +12,7 @@ I decided to do a part-time job so I could have some free time to teach me code.
 
 So I applied some courses online and also went to a school to learn css and html. From that moment, I realized that I needed to become a web developer.
 
-is a challenge, but also a joy because I'm doing what I like.
+It is being a challenge, but also a joy because I'm doing what I like.
 
 Now I applied to the founders and coders three intensive months, really waiting to be selected.
 
