@@ -1,4 +1,4 @@
-<body>
+
 ## Welcome to my Page
 
 Hi there. 
@@ -17,7 +17,7 @@ to be continued..
 
 
 ## Contact Me
-
+<body>
 		<footer>
     		<ul>
         		<li><a href="http://mailto:deysi-ramirez@hotmail.com">Email</a></li>
