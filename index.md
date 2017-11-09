@@ -2,19 +2,21 @@
 	
 ## Welcome to my Page
 
-Hi there. 
+Hello.
 
-My Name is Deysi and i'm in London for 5 years. 
+My name is Deysi and I've been in London for 5 years.
 
-After a few experiences working on wordpress websites i realize that i would need to know a litle bit more about this managment content sysyem. I was able to insert and change data but apart from that i couldn't really understand much.
+After some experiments working on wordpress websites, I realize that I would need to know a bit more about this content management system. I was able to insert and change data, but I could not understand much.
 
-I decide to take a part-time job so i could have some free time to teach myself code. 
+I decided to do a part-time job so I could have some free time to teach me code.
 
-So i apply for some courses online and also went to a shcool to learn css and html. From that moment i realize that i needed to became a web developer.
+So I applied some courses online and also went to a school to learn css and html. From that moment, I realized that I needed to become a web developer.
 
-Is being a chalenge but also a joy because im doing what i like. 
+is a challenge, but also a joy because I'm doing what I like.
 
-I now applied to the founders and coders and firgers cross because this will change my life. 
+Now I applied to the founders and coders three intensive months, really waiting to be selected.
+
+Fingers crossed because this will change my life.
 
 
 
