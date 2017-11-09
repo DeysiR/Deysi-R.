@@ -17,12 +17,28 @@ to be continued..
 
 ## Contact Me
 
-	<ul>
+	<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>I'm Deysi Ramirez</h1>
+			<p>I'm a self taught <em>Web Designer & WordPress Developer</em>. At the moment i'm building websites in WordPress for friends and family to gain some real experience.</p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
         		<li><a href="http://mailto:deysi-ramirez@hotmail.com">Email</a></li>
         		<li><a href="https://github.com/DeysiR">GitHub</a></li>
 			<li><a href="https://www.freecodecamp.org/deysir">FreeCodeCamp</a></li>
 			<li><a href="https://www.codewars.com/dashboard">CodeWars</a></li>
 			</ul>
+		</footer>
 
 
 
