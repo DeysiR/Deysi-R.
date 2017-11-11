@@ -6,17 +6,17 @@ Hello.
 
 My name is Deysi and I've been in London for 5 years.
 
-After some experiments working on wordpress websites, I realize that I would need to know a bit more about this content management system. I was able to insert and change data, but I could not understand much.
+After some time working with wordpress websites, I realize that I would need to know a bit more about this content management system. I was able to insert and change data, but I could not understand much.
 
-I decided to do a part-time job so I could have some free time to teach me code.
+I decided to do a part-time job so I could have some time free to learn code.
 
-So I applied some courses online and also went to a school to learn css and html. From that moment, I realized that I needed to become a web developer.
+So, i applied for some courses online and also went to a school to learn css and html. From that moment, I realized that I needed to become a web developer.
 
-It is being a challenge, but also a joy because I'm doing what I like.
+It's being a challenge, but also a joy because i'm doing what I like.
 
-Now I applied to the founders and coders three intensive months, really waiting to be selected.
+Now i applied to the founders and coders bootcamp and i'm looking foward to joing the team.
 
-Fingers crossed because this will change my life.
+Fingers crossed because this can be change my life.
 
 
 
