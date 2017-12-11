@@ -31,7 +31,7 @@ to be continued..
         		<li><a href="https://github.com/DeysiR">GitHub</a></li>
 			<li><a href="https://www.freecodecamp.org/deysir">FreeCodeCamp</a></li>
 			<li><a href="https://www.codewars.com/dashboard">CodeWars</a></li>
-			<li><a href="https://www.codewars.com/users/DeysiR">CodeWars</a></li>
+			<li><a href="https://codepen.io/Deysi/">Codepen</a></li>
 			</ul>
 		</footer>
 </body>
